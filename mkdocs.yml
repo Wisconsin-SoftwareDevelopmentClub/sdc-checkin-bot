@@ -1,4 +1,5 @@
 site_name: SDC Check-in Bot Manuals
+site_url: https://wisconsin-softwaredevelopmentclub.github.io/sdc-checkin-bot/
 
 theme:
   name: material
